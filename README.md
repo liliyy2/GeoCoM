@@ -60,10 +60,6 @@ LLaVA-OneVision-Qwen2-7B, 12 frames per scene (8,748 visual tokens uncompressed)
 
 Budgets are 54% / 40% / 23% / 14% / 9% token retention.
 
-## :pray: **Acknowledgements**
-
-Our implementation builds on [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) and [SparseVLM](https://github.com/Gumpest/SparseVLMs). We thank the authors for releasing their code.
-
 ## :bookmark_tabs: **Citation**
 If you find our work useful for your project, please consider adding a star to this repo and citing our paper:
 ```bibtex
